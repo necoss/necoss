@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @necoss
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on... idk :D
 - 📫 How to reach me: vartypeez@gmail.com
 
