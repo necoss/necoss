@@ -2,14 +2,6 @@
 
 ###
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=necoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="145" alt="stats graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=necoss&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=necoss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="145" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd3Z2kxZjg4cXU1YWJlbWtkYmh1ZXB6emd1cjdhOG5oMTIzOWs2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
 
 ###
@@ -60,7 +52,5 @@
 ###
 
 <br clear="both">
-
-<!-- <img src="https://imgflip.com/gif/9d7gvq" alt="Snake animation" /> -->
 
 ###
